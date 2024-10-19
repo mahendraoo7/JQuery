@@ -31,3 +31,11 @@
 //         })
 //     })
 // })
+
+$(function() {
+    $('#btn').click(function() {
+        $('div').find('p').css({
+            backgroundColor : 'red'
+        })
+    })
+})
