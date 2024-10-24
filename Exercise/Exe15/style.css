@@ -1,7 +1,7 @@
 input {
     border: 2px solid blue;
     border-radius: 8px ;
-    height: 25px;
+    height: 25px;     
     margin: 20px 0;
     
 }
@@ -16,7 +16,7 @@ input {
 }
 
 ul li {
-    cursor: pointer; /* Change cursor to pointer */
+    cursor: pointer; /* Change cursor to pointer */    
 }
 
 ul li:hover {
