@@ -1,0 +1,24 @@
+input {
+    border: 2px solid blue;
+    border-radius: 8px ;
+    height: 25px;
+    margin: 20px 0;
+    
+}
+
+#btn {
+    color: red;
+    padding: 6px 20px;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+ul li {
+    cursor: pointer; /* Change cursor to pointer */
+}
+
+ul li:hover {
+    background-color: lightgray; /* Change background on hover */
+}
