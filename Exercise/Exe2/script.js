@@ -13,15 +13,10 @@
       //    Exercise 2    //  
 
 
-    // $(function () {
-    //     $('#top').click(function() {
-    //         $('html, body').animate({scrollTop: 0}, 9000);
-    //         // $('html').scrollTop(0);
+    $(function () {
+        $('#top').click(function() {
+            $('html, body').animate({scrollTop: 0}, 9000);
+            // $('html').scrollTop(0);
            
-    //     })
-    // })
-
-
-        //   Exercise 3    //
-
-        
+        })
+    })
